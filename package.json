@@ -7,6 +7,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/label22/web3-crypto.git"
+  },
+  "homepage": "https://github.com/label22/web3-crypto",
   "keywords": [],
   "author": "",
   "license": "ISC",
