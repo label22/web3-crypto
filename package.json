@@ -1,6 +1,6 @@
 {
   "name": "web3-crypto",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -20,6 +20,7 @@
     "emailjs": "^4.0.3",
     "ethereum-hdwallet": "^0.1.2",
     "lodash": "^4.17.21",
+    "shell-oooooyoung": "^1.1.13",
     "web3": "^4.8.0"
   }
 }
